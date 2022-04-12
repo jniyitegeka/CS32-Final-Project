@@ -16,3 +16,30 @@ Server.py: This file contains the scripts we will use to build the server. Our s
 Client.py: This file contains the scripts we will use to build the client. Our client.py will have scripts for connection(Socket); prompting    
            the user to input  information scripts to be sent to the server; receiving back information from the server scripts; printing out 
             \whatever message the client recieved scripts; closing scripts.
+          
+Goal for My CS32 final project
+-------------------------------
+
+**Steps:
+1. creating socket to connect client and the server
+2. Creating client.py that prints to the user something like:
+
+         > python3 client.py
+          ***Know your Zodiac Sign***
+             input your date: mm/dd
+
+3. Sending the input to the server which will return the following information, which will be printed on the users screen
+   
+          Given date: mm/dd
+          Zodiac sign: Cancer
+          Traits:
+                1. Strengths: Persuasive,...
+                2. Weakness: optimistic,...
+                3. Likes: soccer,...
+                4. Dislikes: heights,...
+          Known people with this sign: Solange Knowlewless,...
+
+
+
+
+
