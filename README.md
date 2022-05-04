@@ -4,9 +4,9 @@ My CS32 final project
 
 This directory contains everything about my CS32 final project.
 
-Project: Creating people's Zodiac signs & Astrology signs and their meaning identifier.
+Project: Creating people's Zodiac signs and their meaning identifier.
 
-Socket.py, Check.py: Scripts we will use to create socket and eliminate errors any errors in our scripts for building the efficient networked signs'identifier.
+Socket.py, Check.py: Scripts we will use to create socket and eliminate errors any errors in our scripts for building the efficient networked signs'identifier. To execute this step I utlilised The Socket32.py and Check32.py from CS32 PSET 2.
 
 Server.py: This file contains the scripts we will use to build the server. 
 
